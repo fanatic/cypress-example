@@ -1,0 +1,11 @@
+{
+  "name": "cypress-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fanatic/cypress-example",
+  "author": "Jason Parrott <fanatic+github@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^4.7.0"
+  }
+}
